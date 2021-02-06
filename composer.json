@@ -69,4 +69,11 @@
         "sort-packages": true
     },
     "prefer-stable": true
+    
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/flattro/social-post"
+        }
+    ]
 }
