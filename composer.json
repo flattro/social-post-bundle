@@ -26,7 +26,7 @@
 
     "require": {
         "php": "^7.2",
-        "martin-georgiev/social-post": "^1.0",
+        "flattro/social-post": "^1.0",
         "symfony/framework-bundle": "^3.4|^4.3|^5.0",
         "symfony/yaml": "^3.4|^4.3|^5.0"
     },
