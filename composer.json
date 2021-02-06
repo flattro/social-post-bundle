@@ -1,5 +1,5 @@
 {
-    "name": "martin-georgiev/social-post-bundle",
+    "name": "flattro/social-post-bundle",
     "type": "symfony-bundle",
     "description": "Symfony bundle for simultaneous posting of the same message to Facebook, LinkedIn and Twitter",
     "keywords": ["martin georgiev", "symfony", "bundle", "facebook", "twitter", "linkedin", "twitteroauth", "facabook sdk for php", "post update", "social network", "php7"],
